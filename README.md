@@ -4,7 +4,7 @@
 
 ### How To Run
 ```
-git clone https://github.com/IlyaKuz26/ift2.git
+git clone https://github.com/DmitryTretiakov/Docker_lb2.git
 ```
 ```
 Собрать Docker образ
